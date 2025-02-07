@@ -87,7 +87,7 @@ function About() {
             </a>
           </>
           <>
-            <a href="https://drive.google.com/drive/folders/1eWJTfalfpoc6iMxGn00Gk5m2BP5adqr-?usp=drive_link">
+            <a href="https://github.com/axxyush/WallE">
               {" "}
               <button
                 style={{
